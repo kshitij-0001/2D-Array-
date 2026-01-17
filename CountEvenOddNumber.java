@@ -1,6 +1,9 @@
 package Array2D;
 import java.util.Arrays;
 
+/*Count Even and Odd Elements
+ Count the number of even and odd elements present in a 2D array.*/
+
 public class CountEvenOddNumber {
 public static void main(String []args) {
 	int matrix[][]= {{2,3,5,4,6},{5,6,2,8,4},};
@@ -24,3 +27,4 @@ public static void main(String []args) {
 	}
 	
 }
+
